@@ -52,21 +52,19 @@ Before you begin, ensure you have met the following requirements:
 
     Replace `username` and `password` with your PostgreSQL credentials.
 
-**Usage**
+## Usage
     Start your web server.
     Navigate to your project directory (php_crud).
     Open your browser and go to: http://localhost/crud_app/index.php
     You should see the main page displaying the list of items with options to create, read, update, and delete items.
 
-**Contributing**
+## Contributing
     If you would like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue to discuss what you would like to change.
 
-
-**License**
+## License
     This project is licensed under the MIT License. See the `LICENSE` file for details
 
-
-**Acknowledgements**
+## Acknowledgements
     PHP
     PostgreSQL
     Composer
